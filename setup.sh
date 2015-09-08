@@ -8,7 +8,7 @@
 # 5. Spotify (no reason for this really)
 
 # install xcode command line tools
-xcode-select –-install
+xcode-select --install
 
 echo "installing homebrew"
 # install homebrew
